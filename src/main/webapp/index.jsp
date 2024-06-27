@@ -5,7 +5,7 @@
   
   <h2>from devops batch, Thank you</h2>
   
-  <h3> Happy Learning!!! </h3>
+  <h3> Happy Learning and all the best!!! </h3>
 
 </body>
 </html>
