@@ -29,7 +29,7 @@
             margin-right: 10px;
         }
         a {
-            text-decoration: overline;
+            text-decoration: none;
             color: #2c727a;
         }
         a:hover {
@@ -38,26 +38,12 @@
     </style>
 </head>
 <body>
-
-<header>
-    <div class="container">
-        <h1>Welcome to our website</h1>
-        <nav>
-            <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Services</a></li>
-                <li><a href="#">Contact</a></li>
-            </ul>
-        </nav>
-    </div>
-</header>
-
 <section id="main">
     <div class="container">
         <article id="main-col">
             <h1>About me</h1>
-            <p>Prasanna Enuganti, from Hyderabad</p>
+            <p>Prasanna Enuganti, from Hyderabad
+      Welcome to devops</p>
         </article>
 
         <aside id="sidebar">
