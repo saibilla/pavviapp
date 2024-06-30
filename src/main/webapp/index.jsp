@@ -43,7 +43,7 @@
         <article id="main-col">
             <h1>About me</h1>
             <p>Prasanna Enuganti, from Hyderabad
-      Welcome to devops</p>
+      Welcome to devops jenkins assignemnt</p>
         </article>
 
         <aside id="sidebar">
