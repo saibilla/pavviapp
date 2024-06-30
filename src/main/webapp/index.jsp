@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sample Website page</title>
+    <title>Sample Website</title>
     <style>
         /* CSS styles can go here */
         body {
