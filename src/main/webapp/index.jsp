@@ -4,12 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sample Website</title>
+    <title>Sample Website page</title>
     <style>
         /* CSS styles can go here */
         body {
             font-family: Arial, sans-serif;
-            line-height: 1.6;
+            line-height: 1.9;
             margin: 20px;
         }
         header, nav, section, article, aside, footer {
@@ -29,8 +29,8 @@
             margin-right: 10px;
         }
         a {
-            text-decoration: none;
-            color: #333;
+            text-decoration: overline;
+            color: #2c727a;
         }
         a:hover {
             text-decoration: underline;
@@ -41,7 +41,7 @@
 
 <header>
     <div class="container">
-        <h1>Sample Website</h1>
+        <h1>Welcome to our website</h1>
         <nav>
             <ul>
                 <li><a href="#">Home</a></li>
@@ -57,15 +57,15 @@
     <div class="container">
         <article id="main-col">
             <h1>About me</h1>
-            <p>prasanna enuganti</p>
+            <p>Prasanna Enuganti, from Hyderabad</p>
         </article>
 
         <aside id="sidebar">
             <div>
                 <h3>Navigation</h3>
                 <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About</a></li>
+                    <li><a href="#">about</a></li>
+                    <li><a href="#">home</a></li>
                     <li><a href="#">Services</a></li>
                     <li><a href="#">Contact</a></li>
                 </ul>
