@@ -42,7 +42,7 @@
     <div class="container">
         <article id="main-col">
             <h1>About me</h1>
-            <p>this is saikiran, from Hyderabad.
+            <p>My name is saikiran, 
       this is a part of jenkins</p>
         </article>
 
